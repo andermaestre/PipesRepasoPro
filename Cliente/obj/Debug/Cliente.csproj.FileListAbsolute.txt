@@ -1,0 +1,7 @@
+C:\Users\andermaestre\source\repos\PipesRepaso1PostMutex\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\andermaestre\source\repos\PipesRepaso1PostMutex\Cliente\bin\Debug\Cliente.exe
+C:\Users\andermaestre\source\repos\PipesRepaso1PostMutex\Cliente\bin\Debug\Cliente.pdb
+C:\Users\andermaestre\source\repos\PipesRepaso1PostMutex\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+C:\Users\andermaestre\source\repos\PipesRepaso1PostMutex\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\andermaestre\source\repos\PipesRepaso1PostMutex\Cliente\obj\Debug\Cliente.exe
+C:\Users\andermaestre\source\repos\PipesRepaso1PostMutex\Cliente\obj\Debug\Cliente.pdb

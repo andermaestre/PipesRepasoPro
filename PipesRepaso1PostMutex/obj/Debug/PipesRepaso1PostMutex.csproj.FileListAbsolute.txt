@@ -1,0 +1,10 @@
+C:\Users\andermaestre\source\repos\PipesRepaso1PostMutex\PipesRepaso1PostMutex\obj\Debug\PipesRepaso1PostMutex.csprojAssemblyReference.cache
+C:\Users\andermaestre\source\repos\PipesRepaso1PostMutex\PipesRepaso1PostMutex\obj\Debug\PipesRepaso1PostMutex.Form1.resources
+C:\Users\andermaestre\source\repos\PipesRepaso1PostMutex\PipesRepaso1PostMutex\obj\Debug\PipesRepaso1PostMutex.Properties.Resources.resources
+C:\Users\andermaestre\source\repos\PipesRepaso1PostMutex\PipesRepaso1PostMutex\obj\Debug\PipesRepaso1PostMutex.csproj.GenerateResource.cache
+C:\Users\andermaestre\source\repos\PipesRepaso1PostMutex\PipesRepaso1PostMutex\obj\Debug\PipesRepaso1PostMutex.csproj.CoreCompileInputs.cache
+C:\Users\andermaestre\source\repos\PipesRepaso1PostMutex\PipesRepaso1PostMutex\bin\Debug\PipesRepaso1PostMutex.exe.config
+C:\Users\andermaestre\source\repos\PipesRepaso1PostMutex\PipesRepaso1PostMutex\bin\Debug\PipesRepaso1PostMutex.exe
+C:\Users\andermaestre\source\repos\PipesRepaso1PostMutex\PipesRepaso1PostMutex\bin\Debug\PipesRepaso1PostMutex.pdb
+C:\Users\andermaestre\source\repos\PipesRepaso1PostMutex\PipesRepaso1PostMutex\obj\Debug\PipesRepaso1PostMutex.exe
+C:\Users\andermaestre\source\repos\PipesRepaso1PostMutex\PipesRepaso1PostMutex\obj\Debug\PipesRepaso1PostMutex.pdb
